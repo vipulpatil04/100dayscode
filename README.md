@@ -1,2 +1,2 @@
 # 100dayscode
-Journey to become pro at coding
+Challenge accepted for mastering data structures and algorithms within 100 days.
